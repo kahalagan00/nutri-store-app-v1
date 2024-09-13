@@ -1,0 +1,8 @@
+.shopping-page {
+  padding: 4rem;
+  width: 100%;
+  background-color: lightgreen;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 250px));
+  gap: 2rem;
+}

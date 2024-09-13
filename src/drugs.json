@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Ibuprofen",
+    "description": "Pain reliever and fever reducer for mild to moderate pain.",
+    "imageLink": "",
+    "price": 12.99
+  },
+  {
+    "title": "Cetirizine",
+    "description": "Antihistamine used to relieve allergy symptoms.",
+    "imageLink": "",
+    "price": 9.99
+  },
+  {
+    "title": "Amoxicillin",
+    "description": "Antibiotic used to treat a variety of bacterial infections.",
+    "imageLink": "",
+    "price": 14.99
+  },
+  {
+    "title": "Lisinopril",
+    "description": "Medication for managing high blood pressure.",
+    "imageLink": "",
+    "price": 7.99
+  },
+  {
+    "title": "Metformin",
+    "description": "Commonly prescribed for type 2 diabetes control.",
+    "imageLink": "",
+    "price": 8.49
+  },
+  {
+    "title": "Aspirin",
+    "description": "Blood thinner and pain reliever used to reduce heart attack risk.",
+    "imageLink": "",
+    "price": 5.99
+  },
+  {
+    "title": "Omeprazole",
+    "description": "Proton pump inhibitor used to treat heartburn and acid reflux.",
+    "imageLink": "",
+    "price": 11.49
+  },
+  {
+    "title": "Simvastatin",
+    "description": "Medication to help lower cholesterol and triglyceride levels.",
+    "imageLink": "",
+    "price": 13.99
+  },
+  {
+    "title": "Albuterol",
+    "description": "Inhaler medication for quick relief of asthma symptoms.",
+    "imageLink": "",
+    "price": 19.99
+  },
+  {
+    "title": "Hydrochlorothiazide",
+    "description": "Diuretic used to treat high blood pressure and fluid retention.",
+    "imageLink": "",
+    "price": 6.99
+  }
+]

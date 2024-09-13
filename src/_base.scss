@@ -1,0 +1,36 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+
+  @media only screen and (max-width: 1200px) {
+    font-size: 56.25%; // 56.25% of 16px == 9px, --> 1rem = 9px
+  }
+
+  @media only screen and (max-width: 900px) {
+    font-size: 50%; // 50% of 16px == 8px, --> 1rem = 8px
+  }
+
+  // @media only screen and (max-width: 600px) {
+  //   font-size: 37.5%; // 1rem = 6px
+  // }
+
+  @media only screen and (max-width: 1800px) {
+    font-size: 75%; // 75% of 16px == 12px, --> 1rem = 12px
+  }
+}
+
+body {
+  box-sizing: border-box; /* Change the box model so that borders and paddings are no longer added to the total width/height specified for box */
+}
+
+#root {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+}

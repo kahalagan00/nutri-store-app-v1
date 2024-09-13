@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Nutri Store Application
+
+I created this project to practice my React skills.
+
+# Getting Started with Nutri Store App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
