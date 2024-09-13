@@ -1,3 +1,10 @@
+// Color pallete (https://colorhunt.co/palette/eef5ffb4d4ff86b6f6176b87)
+// Lightest to Darkest
+// EEF5FF
+// B4D4FF
+// 86B6F6
+// 176B87
+
 *,
 *::after,
 *::before {
@@ -28,9 +35,10 @@ html {
 
 body {
   box-sizing: border-box; /* Change the box model so that borders and paddings are no longer added to the total width/height specified for box */
+  background-color: #eef5ff;
 }
 
 #root {
   display: grid;
-  grid-template-columns: 1fr 300px;
+  grid-template-columns: 1fr 350px;
 }

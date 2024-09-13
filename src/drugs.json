@@ -2,61 +2,121 @@
   {
     "title": "Ibuprofen",
     "description": "Pain reliever and fever reducer for mild to moderate pain.",
-    "imageLink": "",
+    "imageLink": "./svg/base_drug.svg",
     "price": 12.99
   },
   {
     "title": "Cetirizine",
     "description": "Antihistamine used to relieve allergy symptoms.",
-    "imageLink": "",
+    "imageLink": "./svg/base_drug.svg",
     "price": 9.99
   },
   {
     "title": "Amoxicillin",
     "description": "Antibiotic used to treat a variety of bacterial infections.",
-    "imageLink": "",
+    "imageLink": "./svg/base_drug.svg",
     "price": 14.99
   },
   {
     "title": "Lisinopril",
     "description": "Medication for managing high blood pressure.",
-    "imageLink": "",
+    "imageLink": "./svg/base_drug.svg",
     "price": 7.99
   },
   {
     "title": "Metformin",
     "description": "Commonly prescribed for type 2 diabetes control.",
-    "imageLink": "",
+    "imageLink": "./svg/base_drug.svg",
     "price": 8.49
   },
   {
     "title": "Aspirin",
     "description": "Blood thinner and pain reliever used to reduce heart attack risk.",
-    "imageLink": "",
+    "imageLink": "./svg/base_drug.svg",
     "price": 5.99
   },
   {
     "title": "Omeprazole",
     "description": "Proton pump inhibitor used to treat heartburn and acid reflux.",
-    "imageLink": "",
+    "imageLink": "./svg/base_drug.svg",
     "price": 11.49
   },
   {
     "title": "Simvastatin",
     "description": "Medication to help lower cholesterol and triglyceride levels.",
-    "imageLink": "",
+    "imageLink": "./svg/base_drug.svg",
     "price": 13.99
   },
   {
     "title": "Albuterol",
     "description": "Inhaler medication for quick relief of asthma symptoms.",
-    "imageLink": "",
+    "imageLink": "./svg/base_drug.svg",
     "price": 19.99
   },
   {
     "title": "Hydrochlorothiazide",
     "description": "Diuretic used to treat high blood pressure and fluid retention.",
-    "imageLink": "",
+    "imageLink": "./svg/base_drug.svg",
     "price": 6.99
+  },
+  {
+    "title": "Acetaminophen",
+    "description": "Pain reliever and fever reducer commonly used for mild pain.",
+    "imageLink": "./svg/base_drug.svg",
+    "price": 8.99
+  },
+  {
+    "title": "Atorvastatin",
+    "description": "Statin medication used to lower cholesterol and reduce heart disease risk.",
+    "imageLink": "./svg/base_drug.svg",
+    "price": 15.99
+  },
+  {
+    "title": "Clopidogrel",
+    "description": "Blood thinner used to prevent blood clots after a heart attack.",
+    "imageLink": "./svg/base_drug.svg",
+    "price": 18.49
+  },
+  {
+    "title": "Furosemide",
+    "description": "Diuretic used to treat fluid retention and swelling.",
+    "imageLink": "./svg/base_drug.svg",
+    "price": 10.99
+  },
+  {
+    "title": "Levothyroxine",
+    "description": "Thyroid hormone replacement used to treat hypothyroidism.",
+    "imageLink": "./svg/base_drug.svg",
+    "price": 9.49
+  },
+  {
+    "title": "Gabapentin",
+    "description": "Medication used to treat nerve pain and seizures.",
+    "imageLink": "./svg/base_drug.svg",
+    "price": 13.49
+  },
+  {
+    "title": "Losartan",
+    "description": "Medication for treating high blood pressure and protecting the kidneys.",
+    "imageLink": "./svg/base_drug.svg",
+    "price": 8.79
+  },
+  {
+    "title": "Pantoprazole",
+    "description": "Proton pump inhibitor used to treat stomach ulcers and acid reflux.",
+    "imageLink": "./svg/base_drug.svg",
+    "price": 11.29
+  },
+  {
+    "title": "Tramadol",
+    "description": "Pain reliever used for moderate to severe pain management.",
+    "imageLink": "./svg/base_drug.svg",
+    "price": 17.49
+  },
+  {
+    "title": "Fluticasone Nasal Spray",
+    "description": "Steroid nasal spray used to treat seasonal allergies.",
+    "imageLink": "./svg/base_drug.svg",
+    "price": 14.79
   }
 ]
