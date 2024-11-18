@@ -2,6 +2,10 @@
 
 I created this project to practice my React skills.
 
+<a href="https://nutri-store-app-v1.netlify.app/">
+    <img src="./public/screenshot.png" alt="Project Image" title="Project Image" width="500">
+</a>
+
 # Getting Started with Nutri Store App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
